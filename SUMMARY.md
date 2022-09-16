@@ -1,7 +1,6 @@
 # Table of contents
 
 * [VivacityMC Wiki](README.md)
-  * [Ranks](readme/ranks.md)
 
 ## Getting Started
 
