@@ -2,9 +2,13 @@
 
 * [VivacityMC Wiki](README.md)
 
+## 📢 General Information
+
+* [News and Upcoming Events](general-information/news-and-upcoming-events.md)
+* [Links](general-information/links.md)
+
 ## Getting Started
 
-* [News and Upcoming Events](getting-started/news-and-upcoming-events.md)
 * [Towny](getting-started/towny.md)
 * [Ranks](getting-started/ranks.md)
   * [Blue Rank](getting-started/ranks/blue-rank.md)

@@ -53,7 +53,7 @@ Player particles is accessed by the /pp menu in-game and with it, you can make 3
 
 ### <mark style="color:yellow;">Pocket Games</mark>
 
-Pocket Games is accessed by the /pg menu in-game and with it, there are a total of 27 Single player and 8 multiplayer games that you can challenged others to. They're a mix of retro style and new-age games that brings a twist to anyone's Minecraft experience.
+Pocket Games is accessed by the /pg menu in-game and with it, there are a total of 27 Single player and 8 multiplayer games that you can challenge others to. They're a mix of retro style and new-age games that brings a twist to anyone's Minecraft experience.
 
 {% tabs %}
 {% tab title="Single-Player" %}
