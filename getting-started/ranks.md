@@ -1,6 +1,8 @@
 # Ranks
 
-To buy ranks, go here: [<mark style="color:blue;">http://vivacitymc.buycraft.net/</mark>](http://vivacitymc.buycraft.net/)<mark style="color:blue;"></mark>
+These are the ranks that you can buy.
+
+&#x20;To buy them, go here: [<mark style="color:blue;">http://vivacitymc.buycraft.net/</mark>](http://vivacitymc.buycraft.net/)<mark style="color:blue;"></mark>
 
 |        Rank       |  Price |
 | :---------------: | :----: |
@@ -11,4 +13,6 @@ To buy ranks, go here: [<mark style="color:blue;">http://vivacitymc.buycraft.net
 |        Pink       | $25.00 |
 |      Rainbow      | $45.00 |
 |      Vivacity     | $70.00 |
+
+
 
