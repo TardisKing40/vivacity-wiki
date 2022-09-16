@@ -6,3 +6,4 @@
 
 * [Towny](getting-started/towny.md)
 * [Ranks](getting-started/ranks.md)
+  * [Blue Rank](getting-started/ranks/blue-rank.md)

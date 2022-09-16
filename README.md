@@ -8,7 +8,3 @@ coverY: 0
 Welcome to VivacityMC!
 
 A friendly, survival Towny server!
-
-{% content-ref url="getting-started/ranks.md" %}
-[ranks.md](getting-started/ranks.md)
-{% endcontent-ref %}

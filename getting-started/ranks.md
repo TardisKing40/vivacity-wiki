@@ -1,6 +1,8 @@
 # Ranks
 
-To buy ranks, go here: [<mark style="color:blue;">http://vivacitymc.buycraft.net/</mark>](http://vivacitymc.buycraft.net/)<mark style="color:blue;"></mark>
+These are the ranks that you can buy. Click each rank to see what they offer
+
+To buy them, go here: [<mark style="color:blue;">http://vivacitymc.buycraft.net/</mark>](http://vivacitymc.buycraft.net/)<mark style="color:blue;"></mark>
 
 |        Rank       |  Price |
 | :---------------: | :----: |
