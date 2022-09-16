@@ -1,10 +1,5 @@
 # Vivacity Rank
 
-### <mark style="color:yellow;"></mark>
-
-* /Head Database - full access
-* /Disguise - pig, cow, sheep, chicken, wolf, ocelot, horse,mushroom, bat, rabbit, snowman, polar bear
-
 ### <mark style="color:yellow;">Perks</mark>
 
 {% tabs %}
