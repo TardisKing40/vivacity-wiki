@@ -3,7 +3,7 @@
 ### <mark style="color:yellow;">Perks</mark>
 
 {% tabs %}
-{% tab title="Global Perks" %}
+{% tab title="**Global Perks**" %}
 * \[Blue] prefix -  in game and discord
 * Access to [#minechat ](https://discord.gg/DcVvbkh) in discord - Chat through discord
 * Access to chestshop&#x20;
