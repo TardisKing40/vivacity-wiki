@@ -1,35 +1,27 @@
-# Blue Rank
+# Red Rank
 
 ### <mark style="color:yellow;">Perks</mark>
 
 {% tabs %}
 {% tab title="Global Perks" %}
-* \[Blue] prefix -  in game and discord
+* \[Red] prefix - in game and discord
 * Access to [#minechat ](https://discord.gg/DcVvbkh) in discord - Chat through discord
 * Access to chestshop
-* 7 Additional homes
+* Access to coloured signs
+* 15 Additional homes
 {% endtab %}
 
 {% tab title="Commands" %}
-/Enderchest
-
-/Craft
-
-/Backpack - 9 slots of storage
-
-/Nick - no color
-
-/Back
-
-/Back on death
-
-/Player shops
-
-/Hat
-
-/Head Database - full access
-
-/Disguise - pig, cow, sheep, chicken
+* /Enderchest
+* /Craft
+* /Backpack - 27 slots of storage&#x20;
+* /Nick - with color
+* /Back
+* /Back - on death
+* /Player shops
+* /Hat
+* /Head Database - full access
+* /Disguise - pig, cow, sheep, chicken, wolf, ocelot, horse, mushroom, bat, rabbit
 {% endtab %}
 {% endtabs %}
 
@@ -39,13 +31,29 @@ Player particles is accessed by the /pp menu in-game and with it, you can make 3
 
 {% tabs %}
 {% tab title="Particles" %}
-* Ambient effect
+* Happy Villager
+* Item
+* Nautilus
+* Item Slime
+* Item Snowball
+* Splash
+* Enchant
+* Mycelium
+* Heart
+* Rain
+* Ambient Effect
 * Dolphin
 * Fishing
 * Underwater
 {% endtab %}
 
 {% tab title="Styles" %}
+* Move
+* Whirl
+* Pulse
+* Blockbreak
+* Blockplace
+* thick
 * Arrows
 * Point
 {% endtab %}
@@ -53,7 +61,7 @@ Player particles is accessed by the /pp menu in-game and with it, you can make 3
 
 ### <mark style="color:yellow;">Pocket Games</mark>
 
-Pocket Games is accessed by the /pg menu in-game and with it, there are a total of 27 Single player and 8 multiplayer games that you can challenge others to. They're a mix of retro style and new-age games that brings a twist to anyone's Minecraft experience.
+Pocket Games is accessed by the /pg menu in-game and with it, there are a total of 27 Single player and 8 multiplayer games that you can challenged others to. They're a mix of retro style and new-age games that brings a twist to anyone's Minecraft experience.
 
 {% tabs %}
 {% tab title="Single-Player" %}
