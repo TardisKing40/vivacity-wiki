@@ -1,6 +1,6 @@
 # Blue Rank
 
-### Perks
+### <mark style="color:yellow;">Perks</mark>
 
 {% tabs %}
 {% tab title="Global Perks" %}
@@ -33,7 +33,7 @@
 {% endtab %}
 {% endtabs %}
 
-### Player Particles
+### <mark style="color:yellow;">Player Particles</mark>
 
 Player particles is accessed by the /pp menu in-game and with it, you can make 3 effects with almost endless combos. They only show when you are standing still (unless using specific moving styles like move) so they don't annoy you. When you enter the GUI, you pick a particle to use then a style for example. If I pick a note with orbit, I will end up with [this](http://m/). Some particles can have extra data such as color, like note and dust. [Here](http://m/) are only some of the styles.
 
@@ -51,7 +51,7 @@ Player particles is accessed by the /pp menu in-game and with it, you can make 3
 {% endtab %}
 {% endtabs %}
 
-### Pocket Games
+### <mark style="color:yellow;">Pocket Games</mark>
 
 Pocket Games is accessed by the /pg menu in-game and with it, there are a total of 27 Single player and 8 multiplayer games that you can challenged others to. They're a mix of retro style and new-age games that brings a twist to anyone's Minecraft experience.
 
