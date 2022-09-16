@@ -5,9 +5,13 @@
 \[Blue] prefix -  in game and discord
 
 Access to [#minechat ](https://discord.gg/DcVvbkh) in discord - Chat through discord
+
+Access to chestshop&#x20;
+
+7 Additional homes
 {% endtab %}
 
-{% tab title="Global Perks P2" %}
+{% tab title="Commands" %}
 /Enderchest
 
 /Craft
@@ -17,5 +21,16 @@ Access to [#minechat ](https://discord.gg/DcVvbkh) in discord - Chat through dis
 /Nick - no color
 
 /Back
+
+/Back on death
+
+/Player shops
+
+/Hat
+
+/Head Database - full access
+
+/Disguise - pig, cow, sheep, chicken
 {% endtab %}
 {% endtabs %}
+
