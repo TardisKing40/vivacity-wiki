@@ -1,6 +1,7 @@
 # Table of contents
 
 * [VivacityMC Wiki](README.md)
+  * [Ranks](https://wiki.vivacitymc.com/getting-started/ranks)
 
 ## Getting Started
 
