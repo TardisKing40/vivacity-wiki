@@ -4,6 +4,7 @@
 
 ## Getting Started
 
+* [News and Upcoming Events](getting-started/news-and-upcoming-events.md)
 * [Towny](getting-started/towny.md)
 * [Ranks](getting-started/ranks.md)
   * [Blue Rank](getting-started/ranks/blue-rank.md)
