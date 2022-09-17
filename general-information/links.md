@@ -18,5 +18,9 @@ description: All links provided here
 
 ### Voting
 
-(links will be provided soon)
+[https://bit.ly/2V5b3bX](https://bit.ly/2V5b3bX)\
+[https://bit.ly/2Wh8c44](https://bit.ly/2Wh8c44)\
+[https://bit.ly/2WVmapt](https://bit.ly/2WVmapt)\
+[https://bit.ly/2GXkPrn](https://bit.ly/2GXkPrn)\
+[https://bit.ly/2GY9ibl](https://bit.ly/2GY9ibl)
 
