@@ -17,3 +17,8 @@
   * [Pink Rank](getting-started/ranks/pink-rank.md)
   * [Rainbow Rank](getting-started/ranks/rainbow-rank.md)
   * [Vivacity Rank](getting-started/ranks/vivacity-rank.md)
+* [Economy](getting-started/economy.md)
+
+## TAGS
+
+* [Page 1](tags/page-1.md)
