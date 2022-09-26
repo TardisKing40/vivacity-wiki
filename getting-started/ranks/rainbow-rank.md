@@ -1,3 +1,9 @@
+---
+description: >-
+  Some of the features of the rank may currently not work, as the server is
+  going through a load of changes into 1.19.2.
+---
+
 # Rainbow Rank
 
 ### <mark style="color:yellow;">Perks</mark>
